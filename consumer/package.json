@@ -1,0 +1,10 @@
+{
+  "name": "consumer",
+  "packageManager": "pnpm@10.30.3",
+  "dependencies": {
+    "typescript": "5.9.3"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": []
+  }
+}
