@@ -1,0 +1,15 @@
+{
+  "name": "rules_browsers",
+  "packageManager": "pnpm@10.30.3",
+  "engines": {
+    "npm": "Please use pnpm instead of NPM to install dependencies",
+    "yarn": "Please use pnpm instead of Yarn to install dependencies",
+    "pnpm": "10.30.3"
+  },
+  "dependencies": {
+    "@web/test-runner": "^0.20.2"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": []
+  }
+}
