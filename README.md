@@ -1,9 +1,6 @@
 ```
 cd consumer
 bazel build //...
-```
-
-```
 
 ERROR: /usr/local/google/home/alanagius/xxxx/bazel-bin-repro/consumer/BUILD.bazel:3:9: in directory_path rule //:test__entry_point: 
 Traceback (most recent call last):
